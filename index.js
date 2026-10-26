@@ -1,0 +1,1 @@
+import en from "./en.js";import ar from "./ar.js";export const dictionaries={en,ar};export const t=(l,k)=>dictionaries[l]?.[k]??en[k]??k;

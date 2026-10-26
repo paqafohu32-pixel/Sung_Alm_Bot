@@ -1,0 +1,23 @@
+export default {
+brand:"SUNG BOT",home:"Home",install:"Install Bot",guide:"Installation Guide",status:"Status",telegram:"Telegram",about:"About SUNG BOT",contact:"Contact",
+language:"Language",menu:"Open SUNG BOT navigation",closeMenu:"Close navigation",menuTitle:"SUNG BOT Navigation",eyebrow:"SUNG BOT INSTALLATION PLATFORM",
+tagline:"Connect. Install. Enter the SUNG BOT Universe.",heroTitle:"Your gateway to the SUNG BOT world",heroText:"The official SUNG BOT installation platform using real WhatsApp sessions.",
+installNow:"Install Bot",explore:"Explore SUNG BOT",how:"How installation works",howText:"Enter a WhatsApp number. The server checks for an existing session first. If none exists, it creates a real session and displays the actual WhatsApp pairing code.",
+heroStatOne:"Session check first",heroStatTwo:"SUNG sessions",heroStatThree:"Connection watch",
+step1:"Choose a country and enter the WhatsApp number.",step2:"The server checks for an existing session before creating anything.",step3:"If no session exists, a real SUNG session is created.",step4:"The real WhatsApp pairing code is displayed.",step5:"After linking, the session becomes Online.",
+installTitle:"Install the Bot",installLead:"Enter a WhatsApp number. SUNG BOT checks for an existing session before requesting any new code.",
+phone:"WhatsApp number",country:"Country",numberHint:"Number without country prefix",submit:"Start Installation",working:"Checking session…",
+pairing:"Session status",copy:"Copy code",copied:"Code copied ✓",online:"ONLINE",offline:"OFFLINE",connecting:"CONNECTING",idle:"READY TO INSTALL",waiting:"WAITING FOR LINK",
+noCode:"No fixed code is used. The code shown here is the real code returned by the SUNG BOT session system.",
+realCodeHint:"This is the real WhatsApp pairing code. Enter it in WhatsApp to finish linking.",waitingCode:"The session was created. Waiting for the pairing code from the server…",
+instructions:"Open WhatsApp → Linked Devices → Link a Device, choose phone-number linking, and enter the code shown here.",
+alreadyInstalledTitle:"Already Installed",alreadyInstalled:"This number already has an active SUNG BOT session. No new session or pairing code will be created.",
+existingSessionTitle:"Session Already Exists",existingSession:"SUNG BOT found a registered session for this number, but it is not connected right now. A duplicate session will not be created.",
+alreadyConnectingTitle:"Session Is Connecting",alreadyConnecting:"There is already an installation or connection request for this number. Wait a moment and check the status again.",
+realCodeLabel:"Real WhatsApp pairing code",
+guideTitle:"SUNG BOT Installation Guide",guideLead:"The system checks the session first and never creates a duplicate session for an already-installed number.",tutorial:"Watch the installation guide on TikTok",tutorialLabel:"Installation Guide",tutorialText:"Enter the number, wait for the session check, then use the real code returned when a new session is created.",
+health:"Backend health",website:"Website",serverUp:"Backend reachable",serverDown:"Backend unavailable",check:"Refresh status",statusLead:"Website, SUNG BOT backend, and the checked WhatsApp session state.",
+aboutText:"SUNG BOT is a music-focused WhatsApp bot using real WhatsApp sessions for installation.",aboutSignal:"✦ Made by GEO · 🎵 SUNG CORE",contactText:"All important SUNG BOT links in one place.",powered:"Made by GEO",developer:"Developer",bot:"Telegram Bot",channel:"Telegram Channel",group:"Telegram Group",wa:"WhatsApp Channel",waGroup:"WhatsApp Group",footer:"SUNG BOT Installation Platform",
+invalid:"Enter a valid WhatsApp number.",errorTitle:"Installation could not be completed",errorText:"The installation request could not be completed. Try again.",http400:"The backend rejected this number or request.",http404:"Installation endpoint not found.",http405:"Request method is not supported.",http500:"SUNG BOT server error. Try again later.",timeout:"The service timed out.",network:"Cannot reach SUNG BOT. Check your connection.",invalid_response:"The server returned an invalid response.",unknown:"Something went wrong. Try again.",
+waitingState:"The session was created successfully. Waiting for WhatsApp connection.",connectedState:"The WhatsApp account is connected successfully.",statusUnavailable:"No session has been checked for this number yet.",playMusic:"Play SUNG BOT music",pauseMusic:"Pause SUNG BOT music"
+};
